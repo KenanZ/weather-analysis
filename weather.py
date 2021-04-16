@@ -11,4 +11,4 @@ import streamlit as st
 
 # st.sidebar.title("Menu")
 st.title("Menu")
-st.ballons()
+st.balloons()
