@@ -1,19 +1,5 @@
 Local folder:
-C:\Users\kenan_000\Documents\GitHub\eclipsing-binary-stars
+C:\Users\kenan_000\Documents\GitHub\weather-analysis
 od tamo uradi:
-C:\Users\kenan_000\anaconda3\Scripts\streamlit.exe run Binary-stars.py
+C:\Users\kenan_000\anaconda3\Scripts\streamlit.exe run weather.py
 
-
-Deploy:
-https://docs.streamlit.io/en/stable/deploy_streamlit_app.html#put-your-streamlit-app-on-github
-
-
-https://docs.streamlit.io/en/stable/getting_started.html#add-interactivity-with-widgets
-https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
-
-https://github.com/Sayar1106/covid-dashboard
-https://docs.streamlit.io/en/stable/getting_started.html
-https://towardsdatascience.com/how-i-built-a-coronavirus-dashboard-over-2-weekends-using-python-1e01339b4fa9
-
-CSS:
-https://wattenberger.com/blog/css-percents#gist
